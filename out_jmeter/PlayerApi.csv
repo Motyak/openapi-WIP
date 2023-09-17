@@ -1,0 +1,2 @@
+testCase,httpStatusCode,uri,deviceId,market,additionalTypes,limit,after,before,market,additionalTypes,deviceId,positionMs,deviceId,state,deviceId,volumePercent,deviceId,deviceId,deviceId,deviceId,requestBody,state,deviceId,requestBody
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
